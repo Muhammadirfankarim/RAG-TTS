@@ -68,7 +68,6 @@ A multimodal chatbot application using Retrieval Augmented Generation (RAG) to a
 
    ```bash
    git clone <repository-url>
-   cd AI_IRFAN
    ```
 
 2. **Create virtual environment**
