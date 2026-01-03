@@ -1,0 +1,31 @@
+# Ignore virtual environment
+.venv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore temp files
+temp_audio/
+*.wav
+*.mp3
+
+# Ignore IDE
+.vscode/
+.idea/
+
+# Ignore git
+.git/
+.gitignore
+
+# Ignore docs
+*.md
+!README.md
+
+# Ignore test files
+tests/
+*.test.py
